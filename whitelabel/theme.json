@@ -1,0 +1,11 @@
+{
+ "plainTextColor" : "0x000000",
+ "navbarBackgroundColor" : "0x000000",
+ "navbarForegroundColor" : "0xAAAAAA",
+ "navbarTintedForegroundColor" : "0xFFFFFF",
+ "backgroundColor" : "0xFFFFFF",
+ "emphasizedColor" : "0xAAAAAA",
+ "statusBarStyle" : "LightContent",
+ "regularFontName" : "",
+ "boldFontName" : ""
+}
